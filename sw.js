@@ -1,5 +1,5 @@
 // Service worker: permite usar la app sin conexión
-const CACHE = 'mis-gastos-v2';
+const CACHE = 'mis-gastos-v3';
 const ARCHIVOS = [
   './',
   './index.html',
